@@ -7,7 +7,7 @@ import edge_tts
 app = Flask(__name__)
 
 # Gemini API Anahtarın
-genai.configure(api_key="GEMINI_API_KEY_BURAYA")
+genai.configure(api_key="AQ.Ab8RN6KIh3AlszobTfKv3hZO_JJr22R__SmjijCKMy7kenrPng")
 
 # Yapay zekaya karakterini (Prompt) öğretiyoruz
 SYSTEM_INSTRUCTION = """
